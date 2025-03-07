@@ -14,9 +14,11 @@ OPENAI_API_KEY= "input your api key"
 
 Gradio app Chat with OpenAI
 
-Please download and set up docker desktop WINDOW,MAC OS,LINUX
+Please download and set up docker desktop WINDOW,MAC OS,LINUX.
 
-IN CDM or Terminal of your code file
+Please make sure Docker desktop is open ready to build Docker images.
+
+In CDM or Terminal of your code file
 
 CD open1
 

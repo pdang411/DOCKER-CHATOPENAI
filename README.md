@@ -45,3 +45,6 @@ run command:
 docker build -t gradio-chat-app .
 
 docker run -e OPENAI_API_KEY=your_api_key_here -p 7860:7860 gradio-chat-app
+
+![Screenshot 2025-03-06 233339](https://github.com/user-attachments/assets/9dce9e55-9c3d-4b39-85b8-b6618f240178)
+

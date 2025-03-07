@@ -10,29 +10,9 @@ please set up an .env file in your code folder to place the api key
 
 OPENAI_API_KEY= "input your api key"
 
-create virtual environment file in your code folder
 
-https://www.youtube.com/watch?v=yG9kmBQAtW4
 
-python -m venv ai1
-
-source ai1/Scripts/activate ("ai1" is the name of the file you can name it to your liking) use this for git ai1/Scripts/activate " use this for vscode"
-
-python -m venv filename
-
-source filename/Scripts/activate for git
-
-filename/Scripts/activate for vscode terminal
-
-create virtual-venv file in your vscode terminal or pycharm
-
-for mac https://www.youtube.com/watch?v=Kg1Yvry_Ydk
-
-cd my-project/ virtualenv venv
-
-source venv/bin/activate
-
-Gradio app Chat with Gemini
+Gradio app Chat with OpenAI
 
 Please download and set up docker desktop WINDOW,MAC OS,LINUX
 

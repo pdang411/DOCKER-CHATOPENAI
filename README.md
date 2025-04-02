@@ -6,9 +6,9 @@ Please sign up for OpenAI Developer account at https://platform.openai.com/docs/
 
 Please get API-KEY from https://platform.openai.com/settings/organization/api-keys open an account and get an apikey. "Free for limited time"
 
-please set up an .env file in your code folder to place the api key
+***please set up an .env file in your code folder to place the api key***
 
-OPENAI_API_KEY= "input your api key"
+place your api key inside .env file inside the quotation.      OPENAI_API_KEY= "input your api key"
 
 
 
